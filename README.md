@@ -16,10 +16,7 @@ I'm a passionate computer science student with a deep interest in **coding, soft
 
 ## 💡 What I’m Looking For  
 - 🤝 **Collaboration on real-world projects** and innovative software solutions.  
-- 💬 Discussions on **software engineering, AI, and system architecture**.  
-
-## 📄 Resume  
-📜 **Check out my resume:**[Click](https://drive.google.com/file/d/1Gec0o88dg4j4XRyVTIyiC6XSn_0RRXJW/view?usp=sharing)  
+- 💬 Discussions on **software engineering, AI, and system architecture**.   
 
 ## 📫 Let's Connect!  
 📧 **Email:** [yogesh.developer9@gmail.com](mailto:yogesh.developer9@gmail.com)  
