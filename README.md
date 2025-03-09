@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | AI Enthusiast | Tech Innovator**  
 
-I'm a passionate software engineer with a deep interest in **coding, software development, and generative AI**. Currently, I'm pursuing a **degree in Software Engineering** at **[Your Institute Name]**, where I focus on building scalable, real-world applications.  
+I'm a passionate software engineer with a deep interest in **coding, software development, and generative AI**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute if Technolgy, Kurukshetra**, where I focus on building scalable, real-world applications.  
 
 ## 🔥 What I Do  
 - 💻 **Coding, coding, and more coding!**  
