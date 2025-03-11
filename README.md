@@ -2,21 +2,62 @@
 
 🚀 **Software Engineer | AI Enthusiast | Tech Innovator**  
 
-I'm a passionate computer science student with a deep interest in **coding, software development, and generative AI**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
-
-## 🔥 What I Do  
-- 💻 **Coding, coding, and more coding!**  
-- 🤖 Exploring **Generative AI** and its real-world applications.  
-- 🌍 Building **scalable and efficient software solutions**.  
-- 📊 Working on a **startup-investor matchmaking web app** powered by **deep learning**.  
+I'm a passionate computer science student with a deep interest in **problem solving, software development, and generative AI**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
 
 ## 🎓 Education  
 🎓 **Degree:** Computer Science and Engineering  
 🏛 **Institute:** National Institute of Technology, Kurukshetra  
 
-## 💡 What I’m Looking For  
-- 🤝 **Collaboration on real-world projects** and innovative software solutions.  
-- 💬 Discussions on **software engineering, AI, and system architecture**.   
+## 🚀 My Skills  
+
+### **Programming Languages**  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></td>
+  </tr>
+</table>  
+
+### **Databases**  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+  </tr>
+</table>  
+
+### **Web Technologies**  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></td>
+  </tr>
+</table>  
+
+### **Cloud Services & Tools**  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></td>
+  </tr>
+</table>  
+
+## 🏆 Competative Programming Stats  
+<img src="https://leetcard.jacoblin.cool/user6106kI?theme=dark&font=Monospace" alt="LeetCode Stats" />
 
 ## 📫 Let's Connect!  
 📧 **Email:** [yogesh.developer9@gmail.com](mailto:yogesh.developer9@gmail.com)  
