@@ -1,11 +1,12 @@
 # Hi there, I'm Yogesh Kumar! 👋  
 
-🚀 **Software Engineer | AI Enthusiast | Tech Innovator**  
+🚀 **2nd-year CSE student at NIT Kurukshetra| AI Enthusiast | Tech Innovator**  
 
 I'm a passionate computer science student with a deep interest in **problem solving, software development, and  AI & Soft Computing**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
 
 ## 🎓 Education  
-🎓 **Degree:** Computer Science and Engineering  
+🎓 **Degree:** Computer Science and Engineering (2023 - Present)
+
 🏛 **Institute:** National Institute of Technology, Kurukshetra  
 
 ## 🚀 My Skills  
