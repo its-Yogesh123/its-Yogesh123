@@ -5,9 +5,9 @@
 I'm a passionate computer science student with a deep interest in **problem solving, software development, and  AI & Soft Computing**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
 
 ## 🎓 Education  
-🎓 **Degree:** Computer Science and Engineering (2023 - Present)
+National Institute of Technology, Kurukshetra | CGPA - 9.18
 
-🏛 **Institute:** National Institute of Technology, Kurukshetra  
+Computer Engineering (2023 - Present) 
 
 ## 🚀 My Skills  
 
@@ -21,7 +21,6 @@ I'm a passionate computer science student with a deep interest in **problem solv
   <tr>
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></td>
   </tr>
 </table>  
 
