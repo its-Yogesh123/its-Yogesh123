@@ -1,11 +1,11 @@
 # Hi there, I'm Yogesh Kumar! 👋  
 
-🚀 **2nd-year CSE student at NIT Kurukshetra | Tech Innovator**  
+🚀 **3rd-year CSE Undergraduate at NIT Kurukshetra | Tech Innovator**  
 
-I'm a passionate computer science student with a deep interest in **problem solving, software development, and  AI & Soft Computing**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
+I'm a passionate computer science student with a deep interest in **problem solving, software development, and machine learning**. Currently, I'm pursuing a **degree in Computer Science and Engineering** at **National Institute of Technology, Kurukshetra**, where I focus on building scalable, real-world applications.  
 
 ## 🎓 Education  
-National Institute of Technology, Kurukshetra | CGPA - 9.18
+National Institute of Technology, Kurukshetra | CGPA - 9.2875
 
 Computer Engineering (2023 - Present) 
 
