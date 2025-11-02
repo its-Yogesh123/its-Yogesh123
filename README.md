@@ -60,8 +60,7 @@ Computer Engineering (2023 - Present)
 <img src="https://leetcard.jacoblin.cool/user6106kI?theme=dark&font=Monospace" alt="LeetCode Stats" />
 
 ## 📫 Let's Connect!  
-📧 **Email:** [yogesh.developer9@gmail.com](mailto:yogesh.developer9@gmail.com)  
-🔗 **Portfolio:** [port.yolab.in](https://port.yolab.in)  
+📧 **Email:** [yogesh.developer9@gmail.com](mailto:yogesh.developer9@gmail.com)   
 💼 **LinkedIn:** [linkedin.com/in/yogeshkumardev123](https://www.linkedin.com/in/yogeshkumardev123)  
 
 🚀 Let's build something amazing together!  
