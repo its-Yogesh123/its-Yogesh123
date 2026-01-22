@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://leetcode.com/user6106kl" >
+  <a href="https://leetcode.com/user6106kI" >
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" height="25" />
   </a>
 
