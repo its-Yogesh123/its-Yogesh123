@@ -55,8 +55,9 @@
 <h2 align="center">My Work</h2>
 
 ### 🔹 `SnipShare` — VS Code Extension
-An instant and reliable code-sharing extension for seamless collaboration between multiple VS Code instances.  
-Published on the VS Code Marketplace.
+
+- An instant and reliable code-sharing extension for seamless collaboration between multiple VS Code instances.
+- Published on the VS Code Marketplace.
 
 🔗 **Marketplace / Demo:** [View Extension](https://marketplace.visualstudio.com/items?itemName=Yogesh-dev9.snipare)  
 📁 **GitHub Repo:** [View Repository](https://github.com/its-Yogesh123/snipShare))
@@ -64,8 +65,12 @@ Published on the VS Code Marketplace.
 ---
 
 ### 🔹 `react-export-as-image` — React Hook Library
-A custom React hook library that enables exporting React components as images, simplifying reuse across applications.  
-Published on npm.
+
+![downloads](https://img.shields.io/npm/dm/react-export-as-image)
+
+- A custom React hook library that enables exporting React components as images, simplifying reuse across applications.  
+- Published on npm.
+
 
 🔗 **Package / Demo:** [View Package](https://www.npmjs.com/package/react-export-as-image)  
 📁 **GitHub Repo:** [View Repository](https://github.com/its-Yogesh123/react-export-as-image)
