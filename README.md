@@ -39,7 +39,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Yogesh Kumar</h1>
+<h1 align="center">Hey Devs I'm Yogesh Kumar</h1>
 
 ###
 
