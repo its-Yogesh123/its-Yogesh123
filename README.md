@@ -83,21 +83,6 @@ A reusable C++ library implementing AVL tree operations with guaranteed balanced
 
 📁 **GitHub Repo:** [View Repository](https://github.com/its-Yogesh123/AVL)
 
----
-
-### 🔹 Vlog Platform — Full Stack Application
-A full-stack blogging platform featuring authentication, content management, and RESTful APIs.  
-Deployed with a custom domain.
-
-🔗 **Live App:** [View Application](https://vlog.yolab.in)  
-📁 **GitHub Repo:** [View Repository](https://github.com/its-Yogesh123/deploy)
-
----
-
-### 🔹 More Projects
-Additional projects, experiments, and utilities are available on my GitHub profile.
-
-
 <h2 align="center">My Skills</h2>
 
 ### **Programming Languages**  
