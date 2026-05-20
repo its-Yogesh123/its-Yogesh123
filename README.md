@@ -1,9 +1,24 @@
+<!-- <div align="center">
+  
+```text
+██╗  ██╗ ██████╗  ██████╗ ███████╗███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+ ╚████╔╝ ██║   ██║██║  ███╗█████╗  ███████╗███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+  ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+   ██║   ╚██████╔╝╚██████╔╝███████╗███████║██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+</div>  -->
 <div align="center">
-  <!-- <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNkNjI3YmVya3Z3bXZmaXR0aHZnbnVyNHpia2g1Y3VtbXR3M2kwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KB21ni7aFuA9wB0iQD/giphy.gif"  /> -->
   <img height="150" src="./p.gif"  /> 
 </div>
 
-###
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Software+Developer;AI+%7C+Backend+%7C+System+Design;Building+Scalable+Things..." />
+
+</div>
 
 <div align="center">
   <a href="https://leetcode.com/user6106kI" >
@@ -37,11 +52,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=its-Yogesh123"  />
 </div>
 
-###
-
-<h1 align="center">Hey Devs I'm Yogesh Kumar</h1>
-
-###
+---
 
 <h2 align="center"> About Me</h2>
 
