@@ -15,38 +15,18 @@
 </div>
 
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Software+Developer;AI+%7C+Backend+%7C+System+Design;Building+Yolab..." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Software+Developer;AI+%7C+Backend+%7C+System+Design;Building+Scalable+Things..." />
+<br>
 
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/user6106kI" >
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" height="25" />
-  </a>
-
-  <a href="https://codeforces.com/profile/yogesh.developer01" >
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/yogeshdevzc5v" >
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-<a href="https://port.yolab.in" >
-  <img src="https://img.shields.io/badge/Portfolio-1E293B?logo=aboutdotme&logoColor=white&style=for-the-badge" height="25" />
-</a>
- <a href="https://www.linkedin.com/in/yogeshKumaRdev123" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" >
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh.developer9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://port.yolab.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshKumaRdev123)
+[![YouTube](https://img.shields.io/badge/YouTube-34K%2B%20Views-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BotnetTech-pi7rc)
 
 </div>
 
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=its-Yogesh123"  />
@@ -99,7 +79,6 @@ A reusable C++ library implementing AVL tree operations with guaranteed balanced
 ### **Programming Languages**  
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
   </tr>
