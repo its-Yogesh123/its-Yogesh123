@@ -16,12 +16,12 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Software+Developer;AI+%7C+Backend+%7C+System+Design;Building+Yolab..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Founder+@Yolab" />
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh.developer9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://port.yolab.in)
+[![Yolab](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yolab.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshKumaRdev123)
 [![YouTube](https://img.shields.io/badge/YouTube-34K%2B%20Views-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BotnetTech-pi7rc)
 
@@ -42,7 +42,7 @@
 
 **National Institute of Technology, Kurukshetra**  
 **B.Tech in Computer Engineering**  
-📅 2023 – Present &nbsp;&nbsp;|&nbsp;&nbsp; 📊 **CGPA:** 9.2875
+📅 2023 – Present &nbsp;&nbsp;|&nbsp;&nbsp; 📊 **CGPA:** 9.2745
 
 <h2 align="center">My Work</h2>
 
