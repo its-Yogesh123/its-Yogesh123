@@ -21,7 +21,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh.developer9@gmail.com)
-[![Yolab](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yolab.in)
+[![Yolab](https://img.shields.io/badge/Explore-yolab-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://yolab.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshKumaRdev123)
 [![YouTube](https://img.shields.io/badge/YouTube-34K%2B%20Views-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BotnetTech-pi7rc)
 
