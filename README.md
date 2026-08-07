@@ -16,7 +16,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;Founder+@Yolab" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=YOGESH+KUMAR;@Yolab" />
 
 <br>
 
